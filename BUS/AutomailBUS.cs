@@ -15,9 +15,9 @@ namespace BUS
     {
         // khai báo các biến sử dụng
         private static string AutomailFile = "AutomailData.csv";
-        private static string AutomailPath = @"\\Fppdhkg73\SHAREDISK\Oracle - All SO\Thailand & Vietnam SO\"; 
+        // private static string AutomailPath = @"\\Fppdhkg73\SHAREDISK\Oracle - All SO\Thailand & Vietnam SO\"; 
         // private static string AutomailPath = @"C:\\Backups\"; // tmp
-        // private static string AutomailPath = @"\\147.121.59.246\AutomailFolder\"; // tmp
+        private static string AutomailPath = @"\\147.121.59.246\AutomailFolder\"; // tmp
 
         // Lấy thông tin folder đang chạy chương trình, lưu file nguồn (AutomailFile) vào đây
         private static string FolderStartUp = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().CodeBase);

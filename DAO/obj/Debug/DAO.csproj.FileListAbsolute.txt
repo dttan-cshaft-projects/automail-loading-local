@@ -28,3 +28,13 @@ C:\Users\0138429\Source\Repos\AveryDennison\automail-loading\DAO\bin\Debug\DTO.p
 C:\Users\0138429\Source\Repos\AveryDennison\automail-loading\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
 C:\Users\0138429\Source\Repos\AveryDennison\automail-loading\DAO\obj\Debug\DAO.dll
 C:\Users\0138429\Source\Repos\AveryDennison\automail-loading\DAO\obj\Debug\DAO.pdb
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\DAO\bin\Debug\DAO.dll.config
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\DAO\bin\Debug\DAO.dll
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\DAO\bin\Debug\DAO.pdb
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\DAO\bin\Debug\DTO.dll
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\DAO\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\DAO\bin\Debug\MySql.Data.dll
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\DAO\bin\Debug\DTO.pdb
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\DAO\obj\Debug\DAO.dll
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\DAO\obj\Debug\DAO.pdb

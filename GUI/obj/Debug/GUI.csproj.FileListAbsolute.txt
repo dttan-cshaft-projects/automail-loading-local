@@ -40,3 +40,17 @@ C:\Users\0138429\Source\Repos\AveryDennison\automail-loading\GUI\bin\Debug\BUS.p
 C:\Users\0138429\Source\Repos\AveryDennison\automail-loading\GUI\bin\Debug\DTO.pdb
 C:\Users\0138429\Source\Repos\AveryDennison\automail-loading\GUI\bin\Debug\DAO.pdb
 C:\Users\0138429\Source\Repos\AveryDennison\automail-loading\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\GUI\bin\Debug\Automail-Local.exe.config
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\GUI\bin\Debug\Automail-Local.exe
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\GUI\bin\Debug\Automail-Local.pdb
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\GUI\bin\Debug\BUS.dll
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\GUI\bin\Debug\DTO.dll
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\GUI\bin\Debug\MySql.Data.dll
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\GUI\bin\Debug\DAO.dll
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\GUI\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\GUI\bin\Debug\BUS.pdb
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\GUI\bin\Debug\DTO.pdb
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\GUI\bin\Debug\DAO.pdb
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\GUI\obj\Debug\Automail-Local.exe
+C:\Users\0138429\Source\Repos\AveryDennison\automail-loading-local\GUI\obj\Debug\Automail-Local.pdb
